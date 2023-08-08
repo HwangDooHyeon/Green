@@ -1,0 +1,23 @@
+코드를 사용하지 않고 시작
+
+새 프로젝트 만들기 - 빈 프로젝트
+
+소스 파일 우클릭 새 항목 - C++ 파일 - 이름 main - 만들기
+
+코드 실행 ctrl + F5
+오류 체크 ctrl + shift + b
+
+#include <stdio.h>
+
+
+int main(void)
+{
+
+	printf("Hello World!!");
+
+	return 0;
+}
+
+stdio = standard input output
+
+main은 반드시 하나만 작성 (일종의 입구)
