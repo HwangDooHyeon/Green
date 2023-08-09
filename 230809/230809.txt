@@ -1,30 +1,22 @@
-#include <stdio.h>
-#include <string>
+엘리스 코딩 아카데미
+https://academy.elice.io/explore
 
-using namespace std;
+회원가입 -> 코딩, 얼마나 알고계신가요? (무료강의)
 
+---
 
+프로그래머스
+https://programmers.co.kr/
 
-int main(void)
-{
-	printf("%d\n", sizeof(char));
-	printf("%d\n", sizeof(string));
-	printf("%d\n", sizeof(short));
-	printf("%d\n", sizeof(int));
-	printf("%d\n", sizeof(long));
-	printf("%d\n", sizeof(float));
-	printf("%d\n", sizeof(double));
+하루에 몇개씩 무조건 하기
+파이썬3으로 하는거 추천
+파이썬이 힘들다면 지금 하는 것을 해도 괜찮음
+로그인 해야 정답 확인 가능
 
-	/*
-	char; 문자
-	string; 문자열
-	short; 16비트 정수
-	int; 운영체제에 따라 결정
-	long; 32비트 정수
-	float; 소수점 7자리까지
-	double; 소수점 15자리까지
-	*/
+문제 풀이하고 이해는 나중에
+3단계까지 기본적으로 하기
+코딩 테스트는 4단계 5단계 그 이상도 나옴
 
-	return 0;
-}
+---
 
+자바의 연산자 및 연산자 우선순위 외우기
