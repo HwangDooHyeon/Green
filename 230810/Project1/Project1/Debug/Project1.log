@@ -1,0 +1,9 @@
+﻿  230809.cpp
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(167,6): error C2143: 구문 오류: ';'이(가) '-=' 앞에 없습니다.
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(167,6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(167,1): error C2086: 'int num1': 재정의
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(164): message : 'num1' 선언을 참조하십시오.
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(169,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(169,1): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : 'printf' 선언을 참조하십시오.
+C:\Users\GG\Documents\GitHub\Green\230809\Project1\Project1\230809.cpp(169,16): error C2065: 'num3': 선언되지 않은 식별자입니다.
